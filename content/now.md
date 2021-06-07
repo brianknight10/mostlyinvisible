@@ -5,11 +5,11 @@ title = "What I'm Doing Now"
 slug = "" 
 +++
 
-_This is [a now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too._
+_This is [a now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about) too._
 
 ## Projects
 
-The last couple of years have worn me down - COVID-19 and the pandemic, social change, job changes, family health struggles. I shelved a number of ideas and plans during that time and am finally beginning to make time to re-engage with those professional and personal projects. I am a slow-thinker and scanner. My ideas will develop at their own pace. 
+The last few years have been tumultuous - COVID-19 and the pandemic, social change, job changes, family health struggles. I shelved a number of ideas and plans during that time and am finally beginning to make time to re-engage with professional and personal projects. I am a slow-thinker and scanner; my ideas will develop at their own pace. 
 
 ## The Day Job
 
@@ -32,7 +32,7 @@ Learning French, using [Fluenz](https://fluenz.com/language/learn-french/) and t
 
 ## Love, Love, Love
 
-Between my four wonderful kids and loving partner, my life is filled with a lot of love.
+Between my four wonderful kids and loving partner, my life is filled with love.
 
 ---
 Updated June 6, 2021, from Virginia, USA.

@@ -1,4 +1,4 @@
-baseurl = "http://www.mostlyinvisible.com"
+baseurl = "http://mostlyinvisible.com"
 title = "Brian Knight"
 theme = "hugo-coder"
 languagecode = "en"
@@ -12,9 +12,9 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Brian Knight"
-  info = "Creator | Reader | Thinker"
+  info = "Creator | Problem Solver | Explorer | Iconoclast"
   description = "Brian Knight's personal website"
-  keywords = "blog,developer,personal"
+  keywords = "blog,personal"
   gravatar = "brianknight10@gmail.com"
 
   hideFooter = false
