@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2021-06-06T12:53:07-04:00
 title = "What I'm Doing Now"
 slug = "" 
@@ -9,7 +9,7 @@ _This is [a now page](https://nownownow.com/about). If you have your own site, [
 
 ## Projects
 
-The last few years have been tumultuous - COVID-19, social changes, job changes, family health struggles. I shelved a number of plans during that time and am finally beginning to make time to re-engage with some personal projects. I am a slow-thinker and a scanner; my ideas will develop at their own pace. 
+The last few years were tumultuous - COVID-19, social change, job changes, family health struggles. I shelved a number of plans during that time and am finally beginning to make time to re-engage with some personal projects. I am a slow-thinker and a scanner; my ideas will develop at their own pace. 
 
 ## The Day Job
 
@@ -21,7 +21,7 @@ My reading practice continues to be ecletic. Some current and recent books inclu
 
 - [_How To Live_](https://sive.rs/h) by Derek Sivers (I received a pre-publication copy)
 - [_Heart of Darkness_](https://www.powells.com/book/heart-of-darkness-the-congo-diary-9780141441672) by Joseph Conrad
-- [_Resilient Management_](https://resilient-management.com)  by Lara Hogan (Re-reading this excellent book with a teammate)
+- [_Resilient Management_](https://resilient-management.com) by Lara Hogan (Re-reading this excellent book with a teammate)
 - [_Tudors: The History of England from Henry VIII to Elizabeth I_](https://www.powells.com/book/tudors-9781250054609) by Peter Ackroyd
 
 I have eliminated daily news consumption to reduce noise and improve my mood. I read [_The Economist_](https://www.economist.com) weekly. I make an exception for baseball news.
